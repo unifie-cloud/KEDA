@@ -1,0 +1,8 @@
+hardcodedNameSpace: keda
+showVerionsTab: false
+showEnvVarsTab: false
+allowAutoApplyLimits: false
+name: Keda
+title: Keda
+description: Keda
+oneDeploymentPerCluster: true
